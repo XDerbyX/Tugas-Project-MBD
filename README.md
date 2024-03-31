@@ -2,6 +2,8 @@
 
 Membuat GUI untuk Database MySQL dengan Python untuk integrasi dengan database MySQL.
 
+[Link Repository Github](https://github.com/XDerbyX/Tugas-Project-MBD)
+
 ## Kelompok 15: Servis Mobil
 - D121221082 | Muh. Naufal Jalaluddin
 - D121221072 | Muh. Wahyu Ramadhan
