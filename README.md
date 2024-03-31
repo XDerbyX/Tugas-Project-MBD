@@ -84,3 +84,6 @@ Masukkan angka yang ingin digunakan untuk memulai ulang perhitungan ID untuk tab
 
 > [!NOTE]
 > Angka yang dipakai adalah angka yang diinput ditambah 1. (Contohnya, jika input angka adalah 0, maka ID pelanggan berikutnya yang akan diberikan adalah 1).
+
+## Preview Video Penggunaan Program:
+[![Nonton Video](https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/39773641-803d-4d3d-906e-061dc1a1f306)](https://youtu.be/ihvoTHUZpqo)
