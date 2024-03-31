@@ -236,8 +236,8 @@ def update_display_with_idle_task(event=None):
     
 def update_display_with_buffer():
     global last_update_time
-    current_time = root.after_idle(update_display)
-    if current_time - last_update_time >= BUFFER_TIME:
+    current_time = int(root.after_idle(update_display))
+    if current_time - int(last_update_time) >= BUFFER_TIME:
         last_update_time = current_time
         
 # GUI Program
