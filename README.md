@@ -62,7 +62,7 @@ Data yang digunakan bisa dilihat pada file [PELANGGAN.txt](https://github.com/XD
 - Menggunakan **_'Search'_** untuk mencari nama pelanggan yang ada pada tabel.
 - Memasukkan data pada tabel dengan tombol **_'Insert Data'_**
 - Menghapus data pada tabel dengan tombol **_'Delete Data'_**
-- Mengkoreksi Auto-Increment untuk ID pelanggan sebelum dimasukkan dengan tombol **_'Reset increment'_**
+- Mengkoreksi Auto-Increment untuk ID tabel Pelanggan sebelum memasukkan data baru dengan tombol **_'Reset Increment'_**
 
 ### Contoh Pemasukan Data:
 <img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/5d508efe-fa74-4a85-bb91-5cbc28fadfa2' width="740">
