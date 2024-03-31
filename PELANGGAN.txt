@@ -1,0 +1,100 @@
+1	AFDAL SANTOSO	Jl. Dr. Ratulangi No. 7, Makassar	087 798 765 432
+2	RIFKI WIJAYA	Jl. Andi Pangerang Pettarani No. 22, Makassar	082 298 765 432
+3	SUSANTO M.	Jl. Cenderawasih No. 10, Makassar	089 788 991 235
+4	MAYA SARI	Jl. Andi Tonro No. 8, Makassar	085 011 223 344
+5	AFDAL SANTOSO	Jl. K. H. Wahid Hasyim No. 12, Makassar	087 798 765 432
+6	RIFKI WIJAYA	Jl. R. E. Martadinata No. 30, Makassar	082 298 765 432
+7	SUSANTO M.	Jl. Hasanuddin No. 16, Makassar	089 788 991 235
+8	DEWI LESTARI	Jl. Jenderal Sudirman No. 18, Makassar	081 234 567 890
+9	BUDI HARTONO	Jl. Merdeka No. 20, Makassar	085 345 678 901
+10	LIA FITRIANA	Jl. Sam Ratulangi No. 25, Makassar	087 456 789 012
+11	ANDIKA PUTRA	Jl. Bau Massepe No. 10, Makassar	089 567 890 123
+12	RINI SUSANTI	Jl. Andi Djemma No. 28, Makassar	081 678 901 234
+13	ADITYA RAMADHAN	Jl. AP Pettarani No. 5, Makassar	083 789 012 345
+14	NOVIANTI WIJAYA	Jl. Andi Mappe No. 17, Makassar	085 890 123 456
+15	FERDIANSYAH	Jl. Adiyaksa No. 3, Makassar	081 901 234 567
+16	ANGGITA NUR	Jl. H. Mappanyuki No. 14, Makassar	087 012 345 678
+17	ARIYANTO SETIA	Jl. Sultan Hasanuddin No. 21, Makassar	089 123 456 789
+18	NIA PUTRI	Jl. Dr. Ratulangi No. 11, Makassar	081 234 567 890
+19	EKO WAHYU	Jl. Andi Mappanyuki No. 29, Makassar	085 345 678 901
+20	SITI HADIYAH	Jl. R. A. Kartini No. 7, Makassar	087 456 789 012
+21	ANDRE SAPUTRA	Jl. Andi Tonro No. 23, Makassar	089 567 890 123
+22	RIAN SAPUTRA	Jl. AP Pettarani No. 16, Makassar	081 678 901 234
+23	EVA SUSANTI	Jl. Jenderal Urip Sumoharjo No. 26, Makassar	083 789 012 345
+24	DITA RAHMA	Jl. Andi Pangerang Pettarani No. 8, Makassar	085 890 123 456
+25	RIO RAMADHAN	Jl. Merdeka No. 19, Makassar	087 012 345 678
+26	TRI WAHYU	Jl. Dr. Sutomo No. 13, Makassar	081 123 456 789
+27	SARI ANGGRAINI	Jl. Jenderal Sudirman No. 27, Makassar	089 234 567 890
+28	AGUS SUSANTO	Jl. Basuki Rahmat No. 15, Makassar	081 345 678 901
+29	SARI WAHYUNI	Jl. Andi Mappanyuki No. 14, Makassar	085 456 789 012
+30	BAYU HADI	Jl. AP Pettarani No. 9, Makassar	087 567 890 123
+31	LINA SAPUTRI	Jl. Andi Tonro No. 11, Makassar	089 678 901 234
+32	RENDY SAPUTRA	Jl. Sam Ratulangi No. 29, Makassar	081 789 012 345
+33	RATIH RAMADHANI	Jl. Jenderal Urip Sumoharjo No. 7, Makassar	083 890 123 456
+34	DIAN WAHYUNI	Jl. Dr. Ratulangi No. 13, Makassar	085 901 234 567
+35	ILHAM NUR	Jl. Jenderal Sudirman No. 22, Makassar	087 012 345 678
+36	DEWI SETIAWAN	Jl. AP Pettarani No. 25, Makassar	089 123 456 789
+37	HADI SUSANTO	Jl. Dr. Ratulangi No. 3, Makassar	081 234 567 890
+38	YULI RAMADHANI	Jl. Andi Mappe No. 9, Makassar	085 345 678 901
+39	ANITA SAPUTRI	Jl. R. A. Kartini No. 17, Makassar	087 456 789 012
+40	ANDRE WIJAYA	Jl. R. A. Kartini No. 8, Makassar	089 567 890 123
+41	RATNA SAPUTRI	Jl. Jenderal Urip Sumoharjo No. 6, Makassar	081 678 901 234
+42	ANDI WAHYU	Jl. Dr. Ratulangi No. 5, Makassar	083 789 012 345
+43	SUSI RAMADHANI	Jl. Sam Ratulangi No. 16, Makassar	085 890 123 456
+44	RIZKI NUR	Jl. Hasanuddin No. 19, Makassar	087 012 345 678
+45	EKO WAHYUDI	Jl. Dr. Ratulangi No. 12, Makassar	089 123 456 789
+46	NOVA SUSANTI	Jl. Jenderal Sudirman No. 28, Makassar	081 234 567 890
+47	AGUS SETIAWAN	Jl. AP Pettarani No. 26, Makassar	085 345 678 901
+48	LISA ANGGRAINI	Jl. Andi Tonro No. 21, Makassar	087 456 789 012
+49	BAYU RAMADHAN	Jl. Dr. Ratulangi No. 27, Makassar	089 567 890 123
+50	NOVI WIJAYA	Jl. R. A. Kartini No. 14, Makassar	081 678 901 234
+51	RINI WAHYUNI	Jl. Jenderal Sudirman No. 21, Makassar	083 789 012 345
+52	ADI SAPUTRA	Jl. Andi Tonro No. 19, Makassar	085 890 123 456
+53	PUTRI WAHYUNI	Jl. Hasanuddin No. 30, Makassar	087 012 345 678
+54	DONI NUR	Jl. AP Pettarani No. 10, Makassar	089 123 456 789
+55	RINA SETIAWAN	Jl. Andi Pangerang Pettarani No. 15, Makassar	081 234 567 890
+56	DANI SUSANTO	Jl. Sam Ratulangi No. 23, Makassar	085 345 678 901
+57	LINA ANGGRAINI	Jl. Jenderal Sudirman No. 32, Makassar	087 456 789 012
+58	RIZKI RAMADHAN	Jl. Hasanuddin No. 35, Makassar	089 567 890 123
+59	SINTA WIJAYA	Jl. R. A. Kartini No. 10, Makassar	081 678 901 234
+60	ARIF WAHYUDI	Jl. Dr. Ratulangi No. 20, Makassar	083 789 012 345
+61	RATIH SAPUTRI	Jl. Hasanuddin No. 31, Makassar	085 890 123 456
+62	AHMAD WAHYU	Jl. R. A. Kartini No. 5, Makassar	087 012 345 678
+63	AYU NUR	Jl. Andi Pangerang Pettarani No. 3, Makassar	089 123 456 789
+64	RIAN SETIAWAN	Jl. Sam Ratulangi No. 22, Makassar	081 234 567 890
+65	NURUL SUSANTO	Jl. Dr. Ratulangi No. 19, Makassar	085 345 678 901
+66	ANDI ANGGRAINI	Jl. AP Pettarani No. 20, Makassar	087 456 789 012
+67	LIA RAMADHANI	Jl. Hasanuddin No. 27, Makassar	089 567 890 123
+68	EKO WIJAYA	Jl. R. A. Kartini No. 15, Makassar	081 678 901 234
+69	YULIA WAHYUNI	Jl. Andi Tonro No. 24, Makassar	083 789 012 345
+70	BAYU SAPUTRA	Jl. Dr. Ratulangi No. 30, Makassar	085 890 123 456
+71	RINI WAHYUNI	Jl. Sam Ratulangi No. 13, Makassar	087 012 345 678
+72	ANDI SETIAWAN	Jl. Hasanuddin No. 18, Makassar	089 123 456 789
+73	RINA SUSANTO	Jl. R. A. Kartini No. 22, Makassar	081 234 567 890
+74	BUDI ANGGRAINI	Jl. AP Pettarani No. 7, Makassar	085 345 678 901
+75	NOVA RAMADHANI	Jl. Andi Tonro No. 29, Makassar	087 456 789 012
+76	SUSI WIJAYA	Jl. Dr. Ratulangi No. 8, Makassar	089 567 890 123
+77	ANDI WAHYUNI	Jl. Sam Ratulangi No. 24, Makassar	081 678 901 234
+78	DEWI SAPUTRI	Jl. Hasanuddin No. 17, Makassar	083 789 012 345
+79	AGUS NUR	Jl. Andi Tonro No. 14, Makassar	085 890 123 456
+80	LINA SETIAWAN	Jl. AP Pettarani No. 23, Makassar	087 012 345 678
+81	RENDY SUSANTO	Jl. Dr. Ratulangi No. 18, Makassar	089 123 456 789
+82	SUSI ANGGRAINI	Jl. Hasanuddin No. 22, Makassar	081 234 567 890
+83	RIAN RAMADHAN	Jl. R. A. Kartini No. 25, Makassar	085 345 678 901
+84	RINA WAHYUNI	Jl. Andi Tonro No. 13, Makassar	087 456 789 012
+85	DEWI WIJAYA	Jl. Sam Ratulangi No. 19, Makassar	089 567 890 123
+86	BAYU SAPUTRA	Jl. Hasanuddin No. 28, Makassar	081 678 901 234
+87	RINI NUR	Jl. R. A. Kartini No. 26, Makassar	083 789 012 345
+88	ANDI SETIAWAN	Jl. AP Pettarani No. 11, Makassar	085 890 123 456
+89	SUSI SUSANTO	Jl. Hasanuddin No. 23, Makassar	087 012 345 678
+90	ANDI ANGGRAINI	Jl. R. A. Kartini No. 15, Makassar	089 123 456 789
+91	LIA RAMADHANI	Jl. Andi Tonro No. 17, Makassar	081 234 567 890
+92	YULI WAHYUNI	Jl. AP Pettarani No. 21, Makassar	085 345 678 901
+93	AGUS WAHYU	Jl. Hasanuddin No. 27, Makassar	087 456 789 012
+94	BAYU RAMADHAN	Jl. R. A. Kartini No. 20, Makassar	089 567 890 123
+95	NOVI WIJAYA	Jl. Sam Ratulangi No. 12, Makassar	081 678 901 234
+96	RINI WAHYUNI	Jl. Andi Tonro No. 9, Makassar	083 789 012 345
+97	ADI SAPUTRA	Jl. AP Pettarani No. 27, Makassar	085 890 123 456
+98	PUTRI WAHYUNI	Jl. Hasanuddin No. 18, Makassar	087 012 345 678
+99	DONI NUR	Jl. R. A. Kartini No. 12, Makassar	089 123 456 789
+100	MAYA SARI	Jl. Tanjung Bunga No. 15, Makassar	085 011 223 344
