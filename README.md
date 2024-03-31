@@ -25,7 +25,7 @@ Membuat GUI untuk Database MySQL dengan Python untuk integrasi dengan database M
 >```
 >pip install mysql-connector-python
 >```
-
+-------------------------------------------------------
 
 ## Fungsi Program:
 - Mengakses Tabel pelanggan dari Database MySQL.
@@ -52,11 +52,13 @@ Membuat GUI untuk Database MySQL dengan Python untuk integrasi dengan database M
 >        messagebox.showerror("Error", f"Failed to connect to database: {error}")
 >        return None
 >```
-
+-------------------------------------------------------
 ## Tampilan Window Utama Pada GUI:
 <img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/4c646178-ca59-454d-bc44-cb1da56abeac' width="640">
 
 Data yang digunakan bisa dilihat pada file [PELANGGAN.txt](https://github.com/XDerbyX/Tugas-Project-MBD/blob/main/PELANGGAN.txt)
+
+-------------------------------------------------------
 
 ### Pada GUI, terdapat 4 fungsi yang dapat digunakan dalam program:
 - Menggunakan **_'Search'_** untuk mencari nama pelanggan yang ada pada tabel.
@@ -72,10 +74,14 @@ Data yang diisi adalah **Nama**, **Alamat**, dan **No. HP**. Setelah diisi, penc
 > [!WARNING]
 > Semua data harus diisi pada kolom yang ada. Jika ada yang kosong, maka akan muncul notifikasi untuk mengisi semua kolom yang belum diisi.
 
+-------------------------------------------------------
+
 ### Contoh Penghapusan Data:
 <img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/43395814-6501-4b0c-bdfa-4b078c795f5e' width="350">
 
 Penghapusan data dilakukan dengan mengambil ID pelanggan dan menginput ID tersebut ke dalam kolom. Setelah itu pencet tombol _'Delete'_ untuk mengkonfirmasi penghapusan data pelanggan pada tabel.
+
+-------------------------------------------------------
 
 ### Contoh Pengkoreksian Auto-Increment ID Pelanggan Pada Tabel:
 <img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/6c7ec1d8-d522-497b-8f49-343f9700a470' width="350">
@@ -84,6 +90,8 @@ Masukkan angka yang ingin digunakan untuk memulai ulang perhitungan ID untuk tab
 
 > [!NOTE]
 > Angka yang dipakai adalah angka yang diinput ditambah 1. (Contohnya, jika input angka adalah 0, maka ID pelanggan berikutnya yang akan diberikan adalah 1).
+
+-------------------------------------------------------
 
 ## Preview Video Penggunaan Program:
 [![Nonton Video](https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/39773641-803d-4d3d-906e-061dc1a1f306)](https://youtu.be/ihvoTHUZpqo)
