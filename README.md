@@ -65,7 +65,7 @@ Data yang digunakan bisa dilihat pada file [PELANGGAN.txt](https://github.com/XD
 - Mengkoreksi Auto-Increment untuk ID pelanggan sebelum dimasukkan dengan tombol **_'Reset increment'_**
 
 ### Contoh Pemasukan Data:
-<img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/20df8b14-ab32-46fc-81a2-cd47b860aabd' width="740">
+<img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/5d508efe-fa74-4a85-bb91-5cbc28fadfa2' width="740">
 
 Data yang diisi adalah **Nama**, **Alamat**, dan **No. HP**. Setelah diisi, pencet tombol **_'Submit'_** untuk menambahkan data ke tabel.
 
