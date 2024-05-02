@@ -31,7 +31,8 @@ Membuat GUI untuk Database MySQL dengan Python untuk integrasi dengan database M
 
 ## Fungsi Program:
 - Mengakses Tabel pelanggan dari Database MySQL.
-- Search Function untuk Nama Pelanggan dalam tabel.
+- Search Function untuk Nama Pelanggan dalam dalam tabel.
+- Index Function untuk mempercepat pencarian data pada dalam tabel.
 - Insert Function untuk memasukkan data pelanggan pada dalam tabel.
 - Delete Function untuk menghapus data pelanggan pada dalam tabel.
 - Pengkoreksian Auto-Increment ID untuk pelanggan pada dalam tabel.
@@ -56,7 +57,8 @@ Membuat GUI untuk Database MySQL dengan Python untuk integrasi dengan database M
 >```
 -------------------------------------------------------
 ## Tampilan Window Utama Pada GUI:
-<img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/4c646178-ca59-454d-bc44-cb1da56abeac' width="640">
+<img src='https://github.com/XDerbyX/Tugas-Project-MBD/assets/42211348/5a55e747-eb75-457c-ac99-9c746cc15cfac' width="640">
+
 
 Data yang digunakan bisa dilihat pada file [PELANGGAN.txt](https://github.com/XDerbyX/Tugas-Project-MBD/blob/main/PELANGGAN.txt)
 
@@ -64,6 +66,7 @@ Data yang digunakan bisa dilihat pada file [PELANGGAN.txt](https://github.com/XD
 
 ### Pada GUI, terdapat 4 fungsi yang dapat digunakan dalam program:
 - Menggunakan **_'Search'_** untuk mencari nama pelanggan yang ada pada tabel.
+- Menggunakan **_'Create Index'_** untuk mempercepat pencarian data berdasarkan nilai Nama_Pelanggan.
 - Memasukkan data pada tabel dengan tombol **_'Insert Data'_**
 - Menghapus data pada tabel dengan tombol **_'Delete Data'_**
 - Mengkoreksi Auto-Increment untuk ID tabel Pelanggan sebelum memasukkan data baru dengan tombol **_'Reset Increment'_**
