@@ -25,7 +25,7 @@ def connect_to_database():
 def search_pelanggan(search_term):
     connection = connect_to_database()
     if connection:
-        cursor = connection.cursor()
+        cursor = connection.cursor(prepared=True) # Prepared Statement
         query = "SELECT * FROM Pelanggan WHERE Nama_Pelanggan LIKE %s"
         cursor.execute(query, ('%' + search_term + '%',))
         result = cursor.fetchall()
@@ -86,7 +86,7 @@ def open_insert_window():
 def insert_pelanggan(name, address, phone):
     connection = connect_to_database()
     if connection:
-        cursor = connection.cursor()
+        cursor = connection.cursor(prepared=True)
         query = "INSERT INTO Pelanggan (Nama_Pelanggan, Alamat_Pelanggan, Nomor_Telephone) VALUES (%s, %s, %s)"
         cursor.execute(query, (name, address, phone))
         connection.commit()
@@ -209,6 +209,22 @@ def reset_auto_increment(table_name, start_value):
         if connection and connection.is_connected():
             cursor.close()
             connection.close()
+            
+def create_indexes():
+    try:
+        connection = connect_to_database()
+        if connection:
+            cursor = connection.cursor()
+            # Create index for ID_Pelanggan column
+            cursor.execute("CREATE INDEX idx_ID_pelanggan ON Pelanggan (ID_Pelanggan)")
+            connection.commit()
+            messagebox.showinfo("Success", "Indexes created successfully.")
+    except mysql.connector.Error as error:
+        messagebox.showerror("Error", f"Failed to create indexes: {error}")
+    finally:
+        if connection.is_connected():
+            cursor.close()
+            connection.close()
 
 # Optimization
 last_update_time = 0
@@ -289,6 +305,10 @@ def main():
 
     separator = Separator(root, orient="horizontal")
     separator.grid(row=3, column=1, columnspan=3, pady=(0, 0), sticky="ew")
+    
+    # Index Button
+    btn_create_index = tk.Button(root, text="Create Index", command=create_indexes, font=("Helvetica", 12, "bold"))
+    btn_create_index.grid(row=0, column=2, columnspan=3, padx=(0, 0), pady=(25, 35), sticky="s")
 
     # Insert Button
     btn_insert = tk.Button(root, text="Insert Data", command=open_insert_window, font=("Helvetica", 12, "bold"))
