@@ -215,8 +215,8 @@ def create_indexes():
         connection = connect_to_database()
         if connection:
             cursor = connection.cursor()
-            # Create index for ID_Pelanggan column
-            cursor.execute("CREATE INDEX idx_ID_pelanggan ON Pelanggan (ID_Pelanggan)")
+            # Create index for Nama_Pelanggan column
+            cursor.execute("CREATE INDEX idx_nama_pelanggan ON Pelanggan (Nama_Pelanggan)")
             connection.commit()
             messagebox.showinfo("Success", "Indexes created successfully.")
     except mysql.connector.Error as error:
