@@ -13,7 +13,7 @@ Membuat GUI untuk Database MySQL dengan Python untuk integrasi dengan database M
 - **ttkbootstrap**: Digunakan untuk mengatur tampilan GUI dengan gaya bootstrap yang modern.
 - **mysql.connector**: Digunakan untuk menghubungkan program Python dengan database MySQL.
 
-> Note:
+> [!NOTE]
 > Penginstalan library tersebut dapat dilakukan melalui command-line interface (CLI):
 >- Instalasi tkinter
 >```
@@ -37,7 +37,7 @@ Membuat GUI untuk Database MySQL dengan Python untuk integrasi dengan database M
 - Delete Function untuk menghapus data pelanggan pada dalam tabel.
 - Pengkoreksian Auto-Increment ID untuk pelanggan pada dalam tabel.
 
-> Note:
+> [!NOTE]
 > ### Program hanya bisa berjalan jika sudah terkoneksi dengan host database MySQL yang digunakan.
 >
 > Berikut segment kode program yang digunakan untuk inisialisi koneksi database MySQL:
@@ -76,7 +76,7 @@ Data yang digunakan bisa dilihat pada file [PELANGGAN.txt](https://github.com/XD
 
 Data yang diisi adalah **Nama**, **Alamat**, dan **No. HP**. Setelah diisi, pencet tombol **_'Submit'_** untuk menambahkan data ke tabel.
 
-> Note:
+> [!NOTE]
 > Semua data harus diisi pada kolom yang ada. Jika ada yang kosong, maka akan muncul notifikasi untuk mengisi semua kolom yang belum diisi.
 
 -------------------------------------------------------
@@ -93,7 +93,7 @@ Penghapusan data dilakukan dengan mengambil ID pelanggan dan menginput ID terseb
 
 Masukkan angka yang ingin digunakan untuk memulai ulang perhitungan ID untuk tabel database.
 
-> Note
+> [!NOTE]
 > Angka yang dipakai adalah angka yang diinput ditambah 1. (Contohnya, jika input angka adalah 0, maka ID pelanggan berikutnya yang akan diberikan adalah 1).
 
 -------------------------------------------------------
